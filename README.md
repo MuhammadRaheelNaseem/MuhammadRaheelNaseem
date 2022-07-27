@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Raheel</h1>
 <h3 align="justify">
-I am Muhammad Raheel, an energetic, enthusiastic and hardworking individual with a strong drive to achieve success. I am looking to create a unique career for myself in this growing and changing world. I'm always looking for new ideas to better my self and the people around me. I have excellent organizational skills and thrive in team environments. I am running start-up "Youth Development Council" which aim to provide quality training to youth and we motive to empower a lot of youth by "Youth Development Council (YDC)".If any one watn connect with us for teaching for any kind of service you can provide just contact us. 
-Let's Teach Together</h3>
+I am Muhammad Raheel, CEO, and Founder of Codact Technologies, which provides IoT-based solutions to businesses and households. I am a professional trainer who teaches Python programming, IoT development, microcontroller or microcomputer programming, etc. I am also running an NGO, which is called the Youth Development Council, which provides emerging technology training for Pakistan's youth. I am a strong believer in the power of technology to change lives, and I am working hard to ensure that young Pakistanis have access to the latest technologies and training.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadraheelnaseem&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadraheelnaseem" /> </p>
 
