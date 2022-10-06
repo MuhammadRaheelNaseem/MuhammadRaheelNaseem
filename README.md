@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Raheel</h1>
 <h3 align="justify">
-I am Muhammad Raheel, CEO, and Founder of Xpace Technologies, which provides IoT-based solutions to businesses and households. I am a professional trainer who teaches Python programming, IoT development, microcontroller or microcomputer programming, etc. I am also running an NGO, which is called the Youth Development Council, which provides emerging technology training for Pakistan's youth. I am a strong believer in the power of technology to change lives, and I am working hard to ensure that young Pakistanis have access to the latest technologies and training.</h3>
+Hi!, I am Raheel, Founder, and CEO of Xpace, where we provide IoT-based solutions to businesses and households. I am an expert in IoT. According to my understanding, IoT is nothing more than connecting devices through different networks.<br>
+I am also a founder and COO of the Youth Development Empowerment Council (YDEC). YDEC is a non-profit organization that aims to empower our nation's youth and encourage them to learn about emerging technologies because the future is IT and we have to update ourselves with technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadraheelnaseem&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadraheelnaseem" /> </p>
 
@@ -8,12 +9,13 @@ I am Muhammad Raheel, CEO, and Founder of Xpace Technologies, which provides IoT
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **mraheel.naseem@gmail.com**
+## - 📫 How to reach me **mraheel.naseem@gmail.com**
+## - 📱 How to reach me **+923452510056**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammadraheel42/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadraheel42/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/muhammadraheelnaseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhammadraheelnaseem" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mraheelnasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhammadraheelnaseem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
