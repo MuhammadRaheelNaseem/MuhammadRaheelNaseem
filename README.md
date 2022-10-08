@@ -14,7 +14,7 @@ I am also a founder and COO of the Youth Development Empowerment Council (YDEC).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammadraheel42/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadraheel42/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadraheel42/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammadraheel42/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mraheelnasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhammadraheelnaseem" height="30" width="40" /></a>
 </p>
 
