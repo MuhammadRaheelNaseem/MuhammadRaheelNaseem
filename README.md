@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Muhammad Raheel</h1>
-<h3 align="justify">
-Hi!, I am Raheel, Founder, and CEO of Xpace, where we provide IoT-based solutions to businesses and households. I am an expert in IoT. According to my understanding, IoT is nothing more than connecting devices through different networks.<br>
-I am also a founder and COO of the Youth Development Empowerment Council (YDEC). YDEC is a non-profit organization that aims to empower our nation's youth and encourage them to learn about emerging technologies because the future is IT and we have to update ourselves with technology.</h3>
+<h3 align="justify">Hello, This is Raheel. He has four years of experience in the
+IT sector. He is an experienced entrepreneur who has
+worked in the IT sector. This means he knows how to start a
+business, how to run a profitable one, how to manage a
+team of experts, and how to deliver great services.</h3>
+<h3 align="justify">Muhammad Raheel is also an expert on the Internet of
+Things (IoT). According to him, IoT is nothing more than
+connecting devices through different networks. In his mind,
+the IoT is a way of life and something he believes in
+passionately.</h3>
+<h3 align="justify">He is really good as an entrepreneur, startup consultant,
+advisor, and mentor. He is passionate about helping startups build their dream teams, accelerate
+growth, and scale globally. He helps them achieve their goals through his extensive network of
+professional relationships.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadraheelnaseem&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadraheelnaseem" /> </p>
 
